@@ -11,7 +11,7 @@ end
 collection = [1, 2, 3, 4]
 
 my_each(collection) do |i|
-  puts i #prints out each member of the array
+  puts i
 end
 
 
